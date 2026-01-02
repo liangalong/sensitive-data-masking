@@ -48,7 +48,7 @@ This is a **Spring Boot starter** that automatically **masks sensitive fields** 
 
 #### Gradle
 ```gradle
-implementation 'io.github.yourname:sensitive-data-masking-spring-boot-starter:1.0.0'
+implementation 'io.github.liangalong:sensitive-data-masking-spring-boot-starter:1.0.0'
 ```  
 
 
@@ -130,7 +130,7 @@ sensitive-mask:
 ## 📦 如何构建项目 / How to Build
 
 ```bash
-git clone https://github.com/yourname/sensitive-data-masking.git
+git clone https://github.com/liangalong/sensitive-data-masking.git
 cd sensitive-data-masking
 mvn clean install
 ```
